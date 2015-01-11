@@ -42,86 +42,86 @@ namespace DictManage
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(31, 98);
+            this.label3.Location = new System.Drawing.Point(31, 90);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(31, 13);
+            this.label3.Size = new System.Drawing.Size(29, 12);
             this.label3.TabIndex = 10;
-            this.label3.Text = "䊐Ԣ;
+            this.label3.Text = "詞性";
             // 
             // posCtrl
             // 
-            this.posCtrl.Location = new System.Drawing.Point(34, 114);
+            this.posCtrl.Location = new System.Drawing.Point(34, 105);
             this.posCtrl.Name = "posCtrl";
             this.posCtrl.Pos = 0;
-            this.posCtrl.Size = new System.Drawing.Size(480, 293);
+            this.posCtrl.Size = new System.Drawing.Size(480, 270);
             this.posCtrl.TabIndex = 9;
             // 
             // radioButtonByPos
             // 
             this.radioButtonByPos.AutoSize = true;
             this.radioButtonByPos.Checked = true;
-            this.radioButtonByPos.Location = new System.Drawing.Point(34, 29);
+            this.radioButtonByPos.Location = new System.Drawing.Point(34, 27);
             this.radioButtonByPos.Name = "radioButtonByPos";
-            this.radioButtonByPos.Size = new System.Drawing.Size(73, 17);
+            this.radioButtonByPos.Size = new System.Drawing.Size(43, 16);
             this.radioButtonByPos.TabIndex = 11;
             this.radioButtonByPos.TabStop = true;
-            this.radioButtonByPos.Text = "蹲ݴʐԢ;
+            this.radioButtonByPos.Text = "POS";
             this.radioButtonByPos.UseVisualStyleBackColor = true;
             this.radioButtonByPos.CheckedChanged += new System.EventHandler(this.radioButtonByPos_CheckedChanged);
             // 
             // radioButtonByLength
             // 
             this.radioButtonByLength.AutoSize = true;
-            this.radioButtonByLength.Location = new System.Drawing.Point(139, 29);
+            this.radioButtonByLength.Location = new System.Drawing.Point(139, 27);
             this.radioButtonByLength.Name = "radioButtonByLength";
-            this.radioButtonByLength.Size = new System.Drawing.Size(73, 17);
+            this.radioButtonByLength.Size = new System.Drawing.Size(56, 16);
             this.radioButtonByLength.TabIndex = 12;
-            this.radioButtonByLength.Text = "蹲ݴʳ䢻
+            this.radioButtonByLength.Text = "Length";
             this.radioButtonByLength.UseVisualStyleBackColor = true;
             this.radioButtonByLength.CheckedChanged += new System.EventHandler(this.radioButtonByLength_CheckedChanged);
             // 
             // numericUpDownLength
             // 
             this.numericUpDownLength.Enabled = false;
-            this.numericUpDownLength.Location = new System.Drawing.Point(105, 64);
+            this.numericUpDownLength.Location = new System.Drawing.Point(105, 59);
             this.numericUpDownLength.Name = "numericUpDownLength";
-            this.numericUpDownLength.Size = new System.Drawing.Size(120, 20);
+            this.numericUpDownLength.Size = new System.Drawing.Size(120, 22);
             this.numericUpDownLength.TabIndex = 13;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(31, 66);
+            this.label1.Location = new System.Drawing.Point(31, 61);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(31, 13);
+            this.label1.Size = new System.Drawing.Size(29, 12);
             this.label1.TabIndex = 14;
-            this.label1.Text = "䊳䢻
+            this.label1.Text = "長度";
             // 
             // buttonFind
             // 
-            this.buttonFind.Location = new System.Drawing.Point(34, 394);
+            this.buttonFind.Location = new System.Drawing.Point(34, 364);
             this.buttonFind.Name = "buttonFind";
-            this.buttonFind.Size = new System.Drawing.Size(75, 23);
+            this.buttonFind.Size = new System.Drawing.Size(75, 21);
             this.buttonFind.TabIndex = 15;
-            this.buttonFind.Text = "⩕Ң;
+            this.buttonFind.Text = "尋找";
             this.buttonFind.UseVisualStyleBackColor = true;
             this.buttonFind.Click += new System.EventHandler(this.buttonFind_Click);
             // 
             // buttonCancel
             // 
-            this.buttonCancel.Location = new System.Drawing.Point(125, 394);
+            this.buttonCancel.Location = new System.Drawing.Point(125, 364);
             this.buttonCancel.Name = "buttonCancel";
-            this.buttonCancel.Size = new System.Drawing.Size(75, 23);
+            this.buttonCancel.Size = new System.Drawing.Size(75, 21);
             this.buttonCancel.TabIndex = 16;
-            this.buttonCancel.Text = "ȡϻ벖ؖa;
+            this.buttonCancel.Text = "取消";
             this.buttonCancel.UseVisualStyleBackColor = true;
             this.buttonCancel.Click += new System.EventHandler(this.buttonCancel_Click);
             // 
             // FormFind
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(687, 429);
+            this.ClientSize = new System.Drawing.Size(687, 396);
             this.Controls.Add(this.buttonCancel);
             this.Controls.Add(this.buttonFind);
             this.Controls.Add(this.label1);
@@ -131,7 +131,7 @@ namespace DictManage
             this.Controls.Add(this.label3);
             this.Controls.Add(this.posCtrl);
             this.Name = "FormFind";
-            this.Text = "⩕Ң;
+            this.Text = "⩕Ң";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownLength)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

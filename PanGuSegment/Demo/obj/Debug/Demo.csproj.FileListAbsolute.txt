@@ -6,3 +6,11 @@ D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\Demo\obj
 D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
 D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\Demo\obj\Debug\Demo.exe
 D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\Demo\obj\Debug\Demo.pdb
+D:\github\PanGu\PanGuSegment\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\github\PanGu\PanGuSegment\Demo\obj\Debug\Demo.FormDemo.resources
+D:\github\PanGu\PanGuSegment\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\github\PanGu\PanGuSegment\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+D:\github\PanGu\PanGuSegment\Demo\obj\Debug\Demo.exe
+D:\github\PanGu\PanGuSegment\Demo\obj\Debug\Demo.pdb
+D:\github\PanGu\Bin\Debug\Demo.exe
+D:\github\PanGu\Bin\Debug\Demo.pdb

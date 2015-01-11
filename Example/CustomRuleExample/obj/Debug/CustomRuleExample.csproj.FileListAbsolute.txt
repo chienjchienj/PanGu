@@ -1,0 +1,7 @@
+D:\github\PanGu\Example\CustomRuleExample\bin\Debug\CustomRuleExample.dll
+D:\github\PanGu\Example\CustomRuleExample\bin\Debug\CustomRuleExample.pdb
+D:\github\PanGu\Example\CustomRuleExample\bin\Debug\PanGu.dll
+D:\github\PanGu\Example\CustomRuleExample\bin\Debug\PanGu.pdb
+D:\github\PanGu\Example\CustomRuleExample\obj\Debug\CustomRuleExample.csprojResolveAssemblyReference.cache
+D:\github\PanGu\Example\CustomRuleExample\obj\Debug\CustomRuleExample.dll
+D:\github\PanGu\Example\CustomRuleExample\obj\Debug\CustomRuleExample.pdb

@@ -4,3 +4,9 @@ D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\PanGu\ob
 D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\PanGu\obj\Debug\PanGu.csproj.GenerateResource.Cache
 D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\PanGu\obj\Debug\PanGu.dll
 D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\PanGu\obj\Debug\PanGu.pdb
+D:\github\PanGu\PanGuSegment\PanGu\obj\Debug\PanGu.AnalyzerResource.resources
+D:\github\PanGu\PanGuSegment\PanGu\obj\Debug\PanGu.csproj.GenerateResource.Cache
+D:\github\PanGu\PanGuSegment\PanGu\obj\Debug\PanGu.dll
+D:\github\PanGu\PanGuSegment\PanGu\obj\Debug\PanGu.pdb
+D:\github\PanGu\Bin\Debug\PanGu.dll
+D:\github\PanGu\Bin\Debug\PanGu.pdb

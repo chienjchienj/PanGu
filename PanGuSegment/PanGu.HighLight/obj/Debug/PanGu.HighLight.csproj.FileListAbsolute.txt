@@ -1,0 +1,5 @@
+D:\github\PanGu\Bin\Debug\PanGu.HighLight.dll
+D:\github\PanGu\Bin\Debug\PanGu.HighLight.pdb
+D:\github\PanGu\PanGuSegment\PanGu.HighLight\obj\Debug\PanGu.HighLight.csprojResolveAssemblyReference.cache
+D:\github\PanGu\PanGuSegment\PanGu.HighLight\obj\Debug\PanGu.HighLight.dll
+D:\github\PanGu\PanGuSegment\PanGu.HighLight\obj\Debug\PanGu.HighLight.pdb
