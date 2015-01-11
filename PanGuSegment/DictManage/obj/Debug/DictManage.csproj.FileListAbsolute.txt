@@ -20,3 +20,5 @@ D:\github\PanGu\PanGuSegment\DictManage\obj\Debug\DictManage.Properties.Resource
 D:\github\PanGu\PanGuSegment\DictManage\obj\Debug\DictManage.csproj.GenerateResource.Cache
 D:\github\PanGu\PanGuSegment\DictManage\obj\Debug\DictManage.exe
 D:\github\PanGu\PanGuSegment\DictManage\obj\Debug\DictManage.pdb
+D:\github\PanGu\Bin\Debug\DictManage.exe
+D:\github\PanGu\Bin\Debug\DictManage.pdb
