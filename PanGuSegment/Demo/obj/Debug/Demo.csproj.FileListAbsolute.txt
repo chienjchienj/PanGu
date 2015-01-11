@@ -1,0 +1,8 @@
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\Bin\Debug\Demo.exe
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\Bin\Debug\Demo.pdb
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\Demo\obj\Debug\Demo.FormDemo.resources
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\Demo\obj\Debug\Demo.exe
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\Demo\obj\Debug\Demo.pdb

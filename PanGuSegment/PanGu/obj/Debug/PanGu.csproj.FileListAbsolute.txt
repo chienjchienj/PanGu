@@ -1,0 +1,6 @@
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\Bin\Debug\PanGu.dll
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\Bin\Debug\PanGu.pdb
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\PanGu\obj\Debug\PanGu.AnalyzerResource.resources
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\PanGu\obj\Debug\PanGu.csproj.GenerateResource.Cache
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\PanGu\obj\Debug\PanGu.dll
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\PanGu\obj\Debug\PanGu.pdb

@@ -1,0 +1,7 @@
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\Bin\Debug\PosDisplayCtrl.dll
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\Bin\Debug\PosDisplayCtrl.pdb
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\PosDisplayCtrl\obj\Debug\PosDisplayCtrl.csprojResolveAssemblyReference.cache
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\PosDisplayCtrl\obj\Debug\PosDisplayCtrl.PosCtrl.resources
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\PosDisplayCtrl\obj\Debug\PosDisplayCtrl.csproj.GenerateResource.Cache
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\PosDisplayCtrl\obj\Debug\PosDisplayCtrl.dll
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\PosDisplayCtrl\obj\Debug\PosDisplayCtrl.pdb

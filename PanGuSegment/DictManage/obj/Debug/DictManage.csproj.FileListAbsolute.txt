@@ -1,0 +1,12 @@
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\Bin\Debug\DictManage.exe
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\Bin\Debug\DictManage.pdb
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\DictManage\obj\Debug\DictManage.csprojResolveAssemblyReference.cache
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\DictManage\obj\Debug\DictManage.FormBatchInsert.resources
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\DictManage\obj\Debug\DictManage.FormEncoder.resources
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\DictManage\obj\Debug\DictManage.FormFind.resources
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\DictManage\obj\Debug\DictManage.FormInputDictVersion.resources
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\DictManage\obj\Debug\DictManage.FormMain.resources
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\DictManage\obj\Debug\DictManage.Properties.Resources.resources
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\DictManage\obj\Debug\DictManage.csproj.GenerateResource.Cache
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\DictManage\obj\Debug\DictManage.exe
+D:\Tseed\LoreMaster\Program\PANGU盤古\pangusegment-96133\PanGuSegment\DictManage\obj\Debug\DictManage.pdb
