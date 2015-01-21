@@ -4,3 +4,4 @@ PanGuSegment/DictManage/obj/Debug/DictManage.csproj.FileListAbsolute.txt
 PanGuSegment/PanGu/obj/Debug/PanGu.csproj.FileListAbsolute.txt
 PanGuSegment/PosDisplayCtrl/obj/Debug/PosDisplayCtrl.csproj.FileListAbsolute.txt
 PanGuSegment/PanGu/obj/Debug/PanGu.csproj.FileListAbsolute.txt
+*.manifest
